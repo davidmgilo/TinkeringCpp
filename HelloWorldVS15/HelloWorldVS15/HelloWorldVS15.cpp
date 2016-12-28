@@ -17,3 +17,7 @@ int main()
     return 0;
 }
 
+//more info on includes:
+//http://stackoverflow.com/questions/1137966/displaying-the-include-hierarchy-for-a-c-file-in-visual-studio
+//https://msdn.microsoft.com/en-us/library/36k2cdd4.aspx
+//http://www.learncpp.com/
